@@ -1,0 +1,8 @@
+﻿  Source.c
+c:\users\vlad\documents\visual studio 2017\projects\проект2\проект2\source.c(30): warning C4133: =: несовместимые типы - из "char [16]" в "LPCWSTR"
+c:\users\vlad\documents\visual studio 2017\projects\проект2\проект2\source.c(34): warning C4133: функция: несовместимые типы - из "char [28]" в "LPCWSTR"
+c:\users\vlad\documents\visual studio 2017\projects\проект2\проект2\source.c(34): warning C4133: функция: несовместимые типы - из "char [6]" в "LPCWSTR"
+c:\users\vlad\documents\visual studio 2017\projects\проект2\проект2\source.c(47): warning C4133: функция: несовместимые типы - из "char [16]" в "LPCWSTR"
+c:\users\vlad\documents\visual studio 2017\projects\проект2\проект2\source.c(47): warning C4133: функция: несовместимые типы - из "char [5]" в "LPCWSTR"
+  Проект2.vcxproj -> c:\users\vlad\documents\visual studio 2017\Projects\Проект2\Debug\Проект2.exe
+  Проект2.vcxproj -> c:\users\vlad\documents\visual studio 2017\Projects\Проект2\Debug\Проект2.pdb (Partial PDB)
